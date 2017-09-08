@@ -1,2 +1,1 @@
-# TPNN
-A neural net capable of creating coherent sentences and paragraphs.
+# Still in the very early stages of development and research. No code available!
